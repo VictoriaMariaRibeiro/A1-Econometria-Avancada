@@ -1,1 +1,2 @@
-# A1-Econometria-Avancada
+# Series-Temporais-1
+Aula com comandos basicos de gráficos e pacotes
